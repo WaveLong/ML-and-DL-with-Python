@@ -33,7 +33,7 @@ GMM的改进版本，采用Pytorch实现
 
 ## 补充
 
-1. 所有的详细文档都在doc文件夹下，对应的文章同步到博客[https://www.cnblogs.com/vinnson/category/1800670.html]
+1. 所有的详细文档都在doc文件夹下，在线可能无法查看，可以下载到本地，或者到我的(博客)[https://www.cnblogs.com/vinnson/category/1800670.html]，内容完全一样
 
 2. 本项目不是为了将所有的算法都实现一遍，我的目的是将一些经典的、具有代表性的算法从头到尾实现一遍，弄清楚中间的原理。选取的每个算法都有不同的侧重点，对于像Logistic Regression/CNN/RNN这些广为人知的入门模型，或者像Xgboost这种大型的造不下来的轮子，选择放弃。实现的算法也还存在很多待改进的部分，完全是toy example
 
