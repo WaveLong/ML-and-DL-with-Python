@@ -31,6 +31,10 @@ Python + numpy + Pytorch
 
 GMM的改进版本，采用Pytorch实现
 
+3. HMM
+
+包括了HMM的序列生成、学习、预测、概率计算四个功能
+
 ## 补充
 
 1. 所有的详细文档都在doc文件夹下，在线可能无法查看，可以下载到本地，或者到我的[博客](https://www.cnblogs.com/vinnson/category/1800670.html)，内容完全一样
